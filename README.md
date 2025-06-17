@@ -24,11 +24,6 @@
 ### 🎶 My last spotify played
 ![](https://spotify-recently-played-readme.vercel.app/api?user=6eufejlkqs06es6eioot9mcqb)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeruDJ22/DeruDJ22/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeruDJ22/DeruDJ22/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DeruDJ22/DeruDJ22/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
