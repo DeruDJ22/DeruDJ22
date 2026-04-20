@@ -9,13 +9,22 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Junior+Full-Stack+Developer;PHP+%7C+Laravel+%7C+Python+%7C+.NET;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deru-khairan-djuharianto-265b812a1/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kuroakai22)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derukhdj22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-## `> about_me.json`
+## 📄 `about_me.json`
 
 ```json
 {
@@ -30,7 +39,7 @@
 
 ---
 
-## `> active_projects/`
+## 📁 `active_projects/`
 
 <table>
 <tr>
@@ -75,7 +84,7 @@ Always building something new. Stay tuned.
 
 ---
 
-## `> tech_stack/`
+## 🛠️ `tech_stack/`
 
 **Languages**
 
@@ -105,7 +114,7 @@ Always building something new. Stay tuned.
 
 ---
 
-## `> github_stats/`
+## 📊 `github_stats/`
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=DeruDJ22&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=8b949e" />
@@ -118,7 +127,7 @@ Always building something new. Stay tuned.
 
 ---
 
-## `> achievements/`
+## 🏆 `achievements/`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeruDJ22&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
@@ -126,7 +135,7 @@ Always building something new. Stay tuned.
 
 ---
 
-## `> top_contributions/`
+## 🔝 `top_contributions/`
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DeruDJ22&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -134,23 +143,10 @@ Always building something new. Stay tuned.
 
 ---
 
-## `> now_playing/`
+## 🎶 `now_playing/`
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=6eufejlkqs06es6eioot9mcqb" />
-</div>
-
----
-
-## `> connect/`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deru-khairan-djuharianto-265b812a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kuroakai22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derukhdj22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
 </div>
 
 ---
