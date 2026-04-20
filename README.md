@@ -127,22 +127,6 @@ Always building something new. Stay tuned.
 
 ---
 
-## 🏆 `achievements/`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeruDJ22&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 🔝 `top_contributions/`
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=DeruDJ22&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
----
-
 ## 🎶 `now_playing/`
 
 <div align="center">
