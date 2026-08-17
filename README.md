@@ -130,7 +130,9 @@ Always building something new. Stay tuned.
 ## 🎶 `now_playing/`
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6eufejlkqs06es6eioot9mcqb" />
+  <a href="https://open.spotify.com/user/6eufejlkqs06es6eioot9mcqb">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6eufejlkqs06es6eioot9mcqb" alt="Spotify recently played" width="400" />
+  </a>
 </div>
 
 ---
