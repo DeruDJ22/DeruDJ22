@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ██╗  ██╗██████╗ ██╗   ██╗
-██╔══██╗██║ ██╔╝██╔══██╗██║   ██║
-██║  ██║█████╔╝ ██████╔╝██║   ██║
-██║  ██║██╔═██╗ ██╔══██╗██║   ██║
-██████╔╝██║  ██╗██║  ██║╚██████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
+██████╗ ███████╗██████╗ ██╗   ██╗
+██╔══██╗██╔════╝██╔══██╗██║   ██║
+██║  ██║█████╗  ██████╔╝██║   ██║
+██║  ██║██╔══╝  ██╔══██╗██║   ██║
+██████╔╝███████╗██║  ██║╚██████╔╝
+╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
 **Deru Khairan Djuharianto** · `Junior Full-Stack Developer`
@@ -37,7 +37,7 @@
 
 ---
 
-## 📁 `active_projects/`
+## 📁 `projects/`
 
 <table>
 <tr>
@@ -46,7 +46,7 @@
 ### 🌱 ReGreen
 Smart waste management app — connects users with local waste banks via door-to-door pickup. Users earn income based on recyclable value.
 
-![Status](https://img.shields.io/badge/Status-In_Progress-3FB950?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-3FB950?style=flat-square)
 
 </td>
 <td width="50%">
@@ -54,7 +54,7 @@ Smart waste management app — connects users with local waste banks via door-to
 ### 🏗️ SMBGarasiBMW
 Comprehensive garage business management system. Handles operations, inventory, and reporting end-to-end.
 
-![Status](https://img.shields.io/badge/Status-In_Progress-3FB950?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-3FB950?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-Laravel_·_Bootstrap-FF2D20?style=flat-square)
 
 </td>
@@ -65,7 +65,7 @@ Comprehensive garage business management system. Handles operations, inventory, 
 ### 🔍 yesitsme
 Python-based OSINT script using web scraping to gather and cross-reference public information.
 
-![Status](https://img.shields.io/badge/Status-Ongoing-58A6FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-3FB950?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-Python-3670A0?style=flat-square)
 
 </td>
@@ -74,6 +74,7 @@ Python-based OSINT script using web scraping to gather and cross-reference publi
 ### 🖥️ Personal Portfolio
 Terminal-inspired portfolio site — Next.js, Tailwind, Matrix rain canvas, animated typewriter, fully responsive.
 
+![Status](https://img.shields.io/badge/Status-Completed-3FB950?style=flat-square)
 [![Live](https://img.shields.io/badge/Live-portofolio--sooty--six--63.vercel.app-3FB950?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-sooty-six-63.vercel.app/)
 
 </td>
